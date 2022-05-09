@@ -1,3 +1,3 @@
 # git-prueba
 Pruebas
-Proyecto de prueba con git
+Proyecto con git
